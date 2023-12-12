@@ -1,6 +1,5 @@
 # Haberman-s-Survival-Analysis
 
-
 The "Haberman Survival Analysis" project is a focused examination of a dataset containing key features related to patients who underwent surgery for breast cancer at the University of Chicago's Billings Hospital. The dataset includes the following features:
 
 1. **Age:** This represents the age of the patients at the time of surgery, ranging from 30 to 83 years. It is retrieved using the code `haberdata['age']`.
