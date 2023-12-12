@@ -1,7 +1,6 @@
 # Haberman-s-Survival-Analysis
 
 
-
 Project Description:
 The "Haberman Survival Analysis" project is a focused examination of a dataset containing key features related to patients who underwent surgery for breast cancer at the University of Chicago's Billings Hospital. The dataset includes the following features:
 
